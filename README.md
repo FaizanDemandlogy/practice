@@ -1,5 +1,5 @@
 # practice
-practice repository
+practice demo
 
 
 *Hello World*
